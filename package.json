@@ -12,6 +12,7 @@
     "@react-router/node": "^8.4.0",
     "@react-router/serve": "^8.4.0",
     "@syncfusion/ej2-base": "^35.1.37",
+    "@syncfusion/ej2-material-theme": "^35.1.40",
     "@syncfusion/ej2-react-buttons": "^35.1.37",
     "@syncfusion/ej2-react-charts": "^35.1.39",
     "@syncfusion/ej2-react-dropdowns": "^35.1.39",
@@ -34,6 +35,7 @@
     "@types/react-dom": "^19.2.7",
     "tailwindcss": "^4.2.2",
     "typescript": "^5.9.3",
-    "vite": "^8.0.3"
+    "vite": "^8.0.3",
+    "vite-plugin-devtools-json": "^1.1.2"
   }
 }
