@@ -127,7 +127,7 @@ declare interface DestinationProps {
 }
 
 type GetAllTripsResponse = {
-  allTrips: Models.Document[];
+  allTrips: Models.Row[];
   total: number;
 };
 
